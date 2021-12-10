@@ -372,6 +372,8 @@
             "87093a27f58c449ebf547b97d26ab718.png": "87093a27f58c449ebf547b97d26ab718.png",
             "9447f611557cc4779064b7850c1bfd24.png": "9447f611557cc4779064b7850c1bfd24.png",
             "9c72f623408aaeb10668306ec23f5269.png": "9c72f623408aaeb10668306ec23f5269.png",
+            "9dbe9e0dc8e639707b90a2a872c38401.png": "9dbe9e0dc8e639707b90a2a872c38401.png",
+            "9f17cafe038594c9b073eafb8bea4a42.png": "9f17cafe038594c9b073eafb8bea4a42.png",
             "b665eb3d3c1b84d184dcd4b638666502.png": "b665eb3d3c1b84d184dcd4b638666502.png",
             "bbaf943e5efbf4c714b8c9f7039e0c2e.png": "bbaf943e5efbf4c714b8c9f7039e0c2e.png",
             "c4671f589aec48a0276f0ea737d078aa.png": "c4671f589aec48a0276f0ea737d078aa.png",
@@ -379,6 +381,7 @@
             "dce432a4904cbb19f4ac0d52610fd1ba.png": "dce432a4904cbb19f4ac0d52610fd1ba.png",
             "e41550a24dc41e3d9c52f31267b591e0.png": "e41550a24dc41e3d9c52f31267b591e0.png",
             "e8bd778e5bfa575f6e618b9f90f375a7.png": "e8bd778e5bfa575f6e618b9f90f375a7.png",
+            "fc6f7d1af722bc34ab4b6398b859a8bd.png": "fc6f7d1af722bc34ab4b6398b859a8bd.png",
             "fe8443150ae68aea2f213a4845047aa2.png": "fe8443150ae68aea2f213a4845047aa2.png"
         },
         "screens_to_elems": {},
@@ -907,6 +910,97 @@
                     "preview_build"
                 ]
             },
+            "9dbe9e0dc8e639707b90a2a872c38401.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "9dbe9e0dc8e639707b90a2a872c38401.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "inapppage-woocommerceproductdetailpage",
+                    "product-list-item-1",
+                    "inapppage-home_inapppage-home",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage_home-drawer-button_toolbar-title____1_home,_back_toolbar-title____1_men,_back_toolbar-title___1",
+                    "stepper-minus",
+                    "product-data-stock-text_product-data-product-name_product-data-sale-price",
+                    "home-drawer-button_toolbar-title____1_home,_back_toolbar-title____1_men,_back_toolbar-title___1",
+                    "select_product_count_stepper-btn-container",
+                    "select_product_count",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6",
+                    "0%",
+                    "product-list-item-2",
+                    "stepper-minus_stepper-count_stepper-plus",
+                    "stepper-count",
+                    "widget-0",
+                    "short_description_view",
+                    "product-list-item-5",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6_vertical_scroll_bar,_2_pages",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-list-item-3",
+                    "product-detail-buttons-buy-now_product-detail-buttons-add-to-cart",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage",
+                    "men,_back_toolbar-title___1",
+                    "__1",
+                    "toolbar-title",
+                    "description_view",
+                    "view",
+                    "reviews_(0)",
+                    "product-list-item-0",
+                    "short_description",
+                    "stepper-btn-container",
+                    "_",
+                    "widget-2",
+                    "widget-1",
+                    "product-data-product-name",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3_vertical_scroll_bar,_2_pages_horizontal_scroll_bar,_1_page",
+                    "product-list-item-4",
+                    "widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-detail-buttons-buy-now",
+                    "product-data-stock-text",
+                    "product-list-item-6",
+                    "inapppage-prodcutlistpage",
+                    "description",
+                    "related_products",
+                    "product-detail-buttons-add-to-cart",
+                    "product-data-sale-price",
+                    "men,_back",
+                    "reviews_(0)_view",
+                    "product_scroller-3",
+                    "stepper-plus",
+                    "_1",
+                    "nam_nec_tellus_a_odio_tincidunt_auctor_a_ornare_odio._sed_non_mauris_vitae_erat_consequat_auctor_eu_in_elit._class_aptent_taciti_sociosqu_ad_litora_torquent_per_conubia_nostra,_per_inceptos_himenaeos._mauris_in_erat_justo._nullam_ac_urna_eu_felis_dapibus_condimentum_sit_amet_a_augue._sed_non_neque_elit_sed.",
+                    "preview_build"
+                ]
+            },
+            "9f17cafe038594c9b073eafb8bea4a42.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "9f17cafe038594c9b073eafb8bea4a42.png"
+                ],
+                "tags": [
+                    "all_screens"
+                ],
+                "text": []
+            },
             "b665eb3d3c1b84d184dcd4b638666502.png": {
                 "dupe_count": [
                     1
@@ -1332,6 +1426,18 @@
                     "preview_build"
                 ]
             },
+            "fc6f7d1af722bc34ab4b6398b859a8bd.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "fc6f7d1af722bc34ab4b6398b859a8bd.png"
+                ],
+                "tags": [
+                    "all_screens"
+                ],
+                "text": []
+            },
             "fe8443150ae68aea2f213a4845047aa2.png": {
                 "dupe_count": [
                     1
@@ -1392,9 +1498,11 @@
             "b665eb3d3c1b84d184dcd4b638666502.png",
             "008d62e91ec193313fd8e558a5f7bb5d.png",
             "325229451b1b85330d6e39b09860d699.png",
+            "fc6f7d1af722bc34ab4b6398b859a8bd.png",
             "8636e20e06f40a18aa5127f416b8e7b0.png",
             "dbb728166397fbbe36c853379200ad82.png",
             "bbaf943e5efbf4c714b8c9f7039e0c2e.png",
+            "9dbe9e0dc8e639707b90a2a872c38401.png",
             "9c72f623408aaeb10668306ec23f5269.png",
             "dce432a4904cbb19f4ac0d52610fd1ba.png",
             "87093a27f58c449ebf547b97d26ab718.png",
@@ -1404,6 +1512,7 @@
             "c4671f589aec48a0276f0ea737d078aa.png",
             "9447f611557cc4779064b7850c1bfd24.png",
             "e41550a24dc41e3d9c52f31267b591e0.png",
+            "9f17cafe038594c9b073eafb8bea4a42.png",
             "fe8443150ae68aea2f213a4845047aa2.png"
         ],
         "uniques_to_dupes": {
@@ -1434,6 +1543,12 @@
             "9c72f623408aaeb10668306ec23f5269.png": [
                 "9c72f623408aaeb10668306ec23f5269.png"
             ],
+            "9dbe9e0dc8e639707b90a2a872c38401.png": [
+                "9dbe9e0dc8e639707b90a2a872c38401.png"
+            ],
+            "9f17cafe038594c9b073eafb8bea4a42.png": [
+                "9f17cafe038594c9b073eafb8bea4a42.png"
+            ],
             "b665eb3d3c1b84d184dcd4b638666502.png": [
                 "b665eb3d3c1b84d184dcd4b638666502.png"
             ],
@@ -1454,6 +1569,9 @@
             ],
             "e8bd778e5bfa575f6e618b9f90f375a7.png": [
                 "e8bd778e5bfa575f6e618b9f90f375a7.png"
+            ],
+            "fc6f7d1af722bc34ab4b6398b859a8bd.png": [
+                "fc6f7d1af722bc34ab4b6398b859a8bd.png"
             ],
             "fe8443150ae68aea2f213a4845047aa2.png": [
                 "fe8443150ae68aea2f213a4845047aa2.png"

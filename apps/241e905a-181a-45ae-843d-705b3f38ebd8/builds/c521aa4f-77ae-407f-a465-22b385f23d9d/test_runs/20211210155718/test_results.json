@@ -1,0 +1,1284 @@
+{
+    "c521aa4f-77ae-407f-a465-22b385f23d9d": {
+        "pass": [
+            {
+                "carbon_log_file_path": "run-59762501.log",
+                "crawl_directory": "test_runs/20211210155718",
+                "created": "2021-12-10 15:59:39",
+                "curr_label": null,
+                "curr_nav_substep": 0,
+                "curr_step": 5,
+                "curr_sub_step": 0,
+                "description": "",
+                "failures": {},
+                "is_deactivated": false,
+                "log": [
+                    "step:0sub_step:0  found:popup_dont_allow",
+                    "step:1sub_step:0  found:icn_menu",
+                    "step:2sub_step:0  found:mi_my_accessories",
+                    "step:3sub_step:0  found:img_buddha_bracelet",
+                    "step:4sub_step:0  found:btn_add_to_cart",
+                    "step:5sub_step:0  found:icn_cart"
+                ],
+                "note": "",
+                "result": "pass",
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "enabled": true,
+                                "hash": "2/3rsrQjNrspvqWqKktMgA==\n",
+                                "height": 135.0,
+                                "hier_level": 63,
+                                "human_hash": "XCUIElementTypeOther_X237.0_Y1542.0_W405.0_H135.0",
+                                "human_readable": "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_fff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "a0696006c1d4de32cc60ea33261684cf",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "fff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "width": 405.0,
+                                "x": 237.0,
+                                "y": 1542.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00000_screenshot.png",
+                        "step_num": 0,
+                        "test_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "timing": null
+                    },
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "home-drawer-button",
+                                "enabled": true,
+                                "hash": "HMCzkvQM7QpSBGkRyMvRJQ==\n",
+                                "height": 132.0,
+                                "hier_level": 18,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W126.0_H132.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffdffffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "img_hash": "0f6eea4f3cbf4bb8abd1e482526d83ed",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "fffdffffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff",
+                                "resource-id": "home-drawer-button",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "home-drawer-button",
+                                "text_hash": "e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "width": 126.0,
+                                "x": 0.0,
+                                "y": 141.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_menu"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00001_screenshot.png",
+                        "step_num": 1,
+                        "test_labels": [
+                            "icn_menu"
+                        ],
+                        "timing": 3.4565577507019043
+                    },
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "normal-btn",
+                                "enabled": true,
+                                "hash": "V3LpZaKglt+z96cwyhc2eg==\n",
+                                "height": 117.0,
+                                "hier_level": 51,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y687.0_W840.0_H117.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_687.0_840.0_117.0_XCUIElementTypeOther_ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0_5e6df563c94d69c456ec3205323b2c7f",
+                                "img_hash": "eb0fc3d7784cfd0ac46b777dc944ef84",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0",
+                                "resource-id": "normal-btn",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "normal-btn",
+                                "text_hash": "5e6df563c94d69c456ec3205323b2c7f",
+                                "width": 840.0,
+                                "x": 0.0,
+                                "y": 687.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "mi_my_accessories"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00002_screenshot.png",
+                        "step_num": 2,
+                        "test_labels": [
+                            "mi_my_accessories"
+                        ],
+                        "timing": 2.9145069122314453
+                    },
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-grid-item-5",
+                                "enabled": true,
+                                "hash": "Zy5fgVOJRi7L2/wHdaLLdg==\n",
+                                "height": 717.0,
+                                "hier_level": 54,
+                                "human_hash": "XCUIElementTypeOther_X642.0_Y1824.0_W624.0_H717.0",
+                                "human_readable": "XCUIElementTypeOther_642.0_1824.0_624.0_717.0_XCUIElementTypeOther_fffdfffffffff1c3f581ff83ffff81c38181ffbfffffe391c101c3ffffffe0ff_6fb9dc97c8803946538b1da5c9274398",
+                                "img_hash": "8a885fb8c156ee04aeeea1461e6525ae",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdfffffffff1c3f581ff83ffff81c38181ffbfffffe391c101c3ffffffe0ff",
+                                "resource-id": "product-grid-item-5",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-grid-item-5",
+                                "text_hash": "6fb9dc97c8803946538b1da5c9274398",
+                                "width": 624.0,
+                                "x": 642.0,
+                                "y": 1824.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "img_buddha_bracelet"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00003_screenshot.png",
+                        "step_num": 3,
+                        "test_labels": [
+                            "img_buddha_bracelet"
+                        ],
+                        "timing": 4.406061172485352
+                    },
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-detail-buttons-add-to-cart",
+                                "enabled": true,
+                                "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+                                "height": 168.0,
+                                "hier_level": 88,
+                                "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+                                "human_readable": "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffdffffffffffffc0038fc18001ffffffffffffffffffffffffffff00030000_81cc46a1c7a72e7eff7a6826968a2f17",
+                                "img_hash": "0eb859f13349641e45e00bab1608a81d",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdffffffffffffc0038fc18001ffffffffffffffffffffffffffff00030000",
+                                "resource-id": "product-detail-buttons-add-to-cart",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-detail-buttons-add-to-cart",
+                                "text_hash": "81cc46a1c7a72e7eff7a6826968a2f17",
+                                "width": 642.0,
+                                "x": 642.0,
+                                "y": 2610.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00004_screenshot.png",
+                        "step_num": 4,
+                        "test_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "timing": 3.8608591556549072
+                    },
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": " 1",
+                                "enabled": true,
+                                "hash": "ZK9OEqxghRnTJQKEfN11Xg==\n",
+                                "height": 114.0,
+                                "hier_level": 21,
+                                "human_hash": "XCUIElementTypeOther_X1128.0_Y150.0_W111.0_H114.0",
+                                "human_readable": "XCUIElementTypeOther_1128.0_150.0_111.0_114.0_XCUIElementTypeOther_fffdffffffffffffc0038fc18001ffffffffffffffffffffffffffff00030000_3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "img_hash": "5f9bfb6e0eb1907500e19aba23eb3a53",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdffffffffffffc0038fc18001ffffffffffffffffffffffffffff00030000",
+                                "resource-id": " 1",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": " 1",
+                                "text_hash": "3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "width": 111.0,
+                                "x": 1128.0,
+                                "y": 150.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00005_screenshot.png",
+                        "step_num": 5,
+                        "test_labels": [
+                            "icn_cart"
+                        ],
+                        "timing": 4.4110400676727295
+                    },
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "eVTqrSSQo758itU7vv+eJg==\n",
+                                "height": 2778,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1284_H2778",
+                                "human_readable": "screen_0_0_1284_2778_screen_dffdffff0fff8fffffffffffffffffffffffffffffffffffffffffff01f10000_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "dffdffff0fff8fffffffffffffffffffffffffffffffffffffffffff01f10000",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1284,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Accessories/iter_00000_step_00006_screenshot.png",
+                        "step_num": 6,
+                        "timing": 2.8194029331207275
+                    }
+                },
+                "steps": [
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "popup_dont_allow"
+                        ],
+                        "run_only_if_label_present": true,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_menu"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "mi_my_accessories"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_buddha_bracelet"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    }
+                ],
+                "tags": [],
+                "temp_id": "2612d330-59f9-11ec-99a6-149d997fd38b",
+                "title": "Accessories",
+                "use_qlearning_matrix": true
+            },
+            {
+                "carbon_log_file_path": "run-59762501.log",
+                "crawl_directory": "test_runs/20211210155718",
+                "created": "2021-12-10 16:01:49",
+                "curr_label": null,
+                "curr_nav_substep": 0,
+                "curr_step": 5,
+                "curr_sub_step": 0,
+                "description": "",
+                "failures": {},
+                "is_deactivated": false,
+                "log": [
+                    "step:0sub_step:0  found:popup_dont_allow",
+                    "step:1sub_step:0  found:icn_menu",
+                    "step:2sub_step:0  found:mi_men",
+                    "step:3sub_step:0  found:img_dark_blue_jeans",
+                    "step:4sub_step:0  found:btn_add_to_cart",
+                    "step:5sub_step:0  found:icn_cart"
+                ],
+                "note": "",
+                "result": "pass",
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "enabled": true,
+                                "hash": "2/3rsrQjNrspvqWqKktMgA==\n",
+                                "height": 135.0,
+                                "hier_level": 63,
+                                "human_hash": "XCUIElementTypeOther_X237.0_Y1542.0_W405.0_H135.0",
+                                "human_readable": "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "a0696006c1d4de32cc60ea33261684cf",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "width": 405.0,
+                                "x": 237.0,
+                                "y": 1542.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00000_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00000_screenshot.png",
+                        "step_num": 0,
+                        "test_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "timing": null
+                    },
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "home-drawer-button",
+                                "enabled": true,
+                                "hash": "HMCzkvQM7QpSBGkRyMvRJQ==\n",
+                                "height": 132.0,
+                                "hier_level": 18,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W126.0_H132.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffdefffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "img_hash": "0f6eea4f3cbf4bb8abd1e482526d83ed",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "fffdefffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff",
+                                "resource-id": "home-drawer-button",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "home-drawer-button",
+                                "text_hash": "e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "width": 126.0,
+                                "x": 0.0,
+                                "y": 141.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_menu"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00001_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00001_screenshot.png",
+                        "step_num": 1,
+                        "test_labels": [
+                            "icn_menu"
+                        ],
+                        "timing": 3.400563955307007
+                    },
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "normal-btn",
+                                "enabled": true,
+                                "hash": "zFIAh/12msXMAo+EwEz1KA==\n",
+                                "height": 114.0,
+                                "hier_level": 52,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y801.0_W840.0_H114.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_801.0_840.0_114.0_XCUIElementTypeOther_ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0_5e6df563c94d69c456ec3205323b2c7f",
+                                "img_hash": "d33b7984e22651de0bbee055dcd44ccd",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0",
+                                "resource-id": "normal-btn",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "normal-btn",
+                                "text_hash": "5e6df563c94d69c456ec3205323b2c7f",
+                                "width": 840.0,
+                                "x": 0.0,
+                                "y": 801.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "mi_men"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00002_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00002_screenshot.png",
+                        "step_num": 2,
+                        "test_labels": [
+                            "mi_men"
+                        ],
+                        "timing": 2.87143611907959
+                    },
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-grid-item-4",
+                                "enabled": true,
+                                "hash": "dGY1Ar3TTBVGWzP5tzvWtw==\n",
+                                "height": 717.0,
+                                "hier_level": 54,
+                                "human_hash": "XCUIElementTypeOther_X18.0_Y1824.0_W624.0_H717.0",
+                                "human_readable": "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_ffffffffe7e781818181c3c3ffff81e781e7c3e7e7ffe78fe7e1fff9fffffb83_2c644d95d0368a16d59ba939b9309646",
+                                "img_hash": "794322f25dc7b04addff19f4fecc1d41",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "ffffffffe7e781818181c3c3ffff81e781e7c3e7e7ffe78fe7e1fff9fffffb83",
+                                "resource-id": "product-grid-item-4",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-grid-item-4",
+                                "text_hash": "2c644d95d0368a16d59ba939b9309646",
+                                "width": 624.0,
+                                "x": 18.0,
+                                "y": 1824.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "img_dark_blue_jeans"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00003_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00003_screenshot.png",
+                        "step_num": 3,
+                        "test_labels": [
+                            "img_dark_blue_jeans"
+                        ],
+                        "timing": 4.403362035751343
+                    },
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-detail-buttons-add-to-cart",
+                                "enabled": true,
+                                "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+                                "height": 168.0,
+                                "hier_level": 88,
+                                "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+                                "human_readable": "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffdf81ff80ff81ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00470000_81cc46a1c7a72e7eff7a6826968a2f17",
+                                "img_hash": "0eb859f13349641e45e00bab1608a81d",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdf81ff80ff81ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00470000",
+                                "resource-id": "product-detail-buttons-add-to-cart",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-detail-buttons-add-to-cart",
+                                "text_hash": "81cc46a1c7a72e7eff7a6826968a2f17",
+                                "width": 642.0,
+                                "x": 642.0,
+                                "y": 2610.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00004_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00004_screenshot.png",
+                        "step_num": 4,
+                        "test_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "timing": 3.7592051029205322
+                    },
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": " 1",
+                                "enabled": true,
+                                "hash": "ZK9OEqxghRnTJQKEfN11Xg==\n",
+                                "height": 114.0,
+                                "hier_level": 21,
+                                "human_hash": "XCUIElementTypeOther_X1128.0_Y150.0_W111.0_H114.0",
+                                "human_readable": "XCUIElementTypeOther_1128.0_150.0_111.0_114.0_XCUIElementTypeOther_fffffa3ff80ffc1ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00000000_3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "img_hash": "5f9bfb6e0eb1907500e19aba23eb3a53",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffffa3ff80ffc1ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00000000",
+                                "resource-id": " 1",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": " 1",
+                                "text_hash": "3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "width": 111.0,
+                                "x": 1128.0,
+                                "y": 150.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_cart"
+                        ],
+                        "screenshot_file_name": "iter_00001_step_00005_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00005_screenshot.png",
+                        "step_num": 5,
+                        "test_labels": [
+                            "icn_cart"
+                        ],
+                        "timing": 0.0
+                    },
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "eVTqrSSQo758itU7vv+eJg==\n",
+                                "height": 2778,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1284_H2778",
+                                "human_readable": "screen_0_0_1284_2778_screen_fffd8fff9fffdfffffffffffffffffffffffffffffffffffffffffff01f10000_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "fffd8fff9fffdfffffffffffffffffffffffffffffffffffffffffff01f10000",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1284,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00001_step_00006_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Men/iter_00001_step_00006_screenshot.png",
+                        "step_num": 6,
+                        "timing": 2.8161580562591553
+                    }
+                },
+                "steps": [
+                    {
+                        "continue_on_failure": false,
+                        "description": "Clear pop up if it appears.",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "popup_dont_allow"
+                        ],
+                        "run_only_if_label_present": true,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Tap menu",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_menu"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "mi_men"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Open link to dark brown jeans",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_dark_blue_jeans"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Add jeans to cart",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Ope Cart",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    }
+                ],
+                "tags": [],
+                "temp_id": "79f1df3c-59f4-11ec-99a6-149d997fd38b",
+                "title": "Men",
+                "use_qlearning_matrix": true
+            },
+            {
+                "carbon_log_file_path": "run-59762501.log",
+                "crawl_directory": "test_runs/20211210155718",
+                "created": "2021-12-10 16:04:03",
+                "curr_label": null,
+                "curr_nav_substep": 0,
+                "curr_step": 5,
+                "curr_sub_step": 0,
+                "description": "",
+                "failures": {},
+                "is_deactivated": false,
+                "log": [
+                    "step:0sub_step:0  found:popup_dont_allow",
+                    "step:1sub_step:0  found:icn_menu",
+                    "step:2sub_step:0  found:mi_women",
+                    "step:3sub_step:0  found:img_blue_denim_shorts",
+                    "step:4sub_step:0  found:btn_add_to_cart",
+                    "step:5sub_step:0  found:icn_cart"
+                ],
+                "note": "",
+                "result": "pass",
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "enabled": true,
+                                "hash": "2/3rsrQjNrspvqWqKktMgA==\n",
+                                "height": 135.0,
+                                "hier_level": 63,
+                                "human_hash": "XCUIElementTypeOther_X237.0_Y1542.0_W405.0_H135.0",
+                                "human_readable": "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "a0696006c1d4de32cc60ea33261684cf",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "width": 405.0,
+                                "x": 237.0,
+                                "y": 1542.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00000_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00000_screenshot.png",
+                        "step_num": 0,
+                        "test_labels": [
+                            "popup_dont_allow"
+                        ],
+                        "timing": null
+                    },
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "home-drawer-button",
+                                "enabled": true,
+                                "hash": "HMCzkvQM7QpSBGkRyMvRJQ==\n",
+                                "height": 132.0,
+                                "hier_level": 18,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W126.0_H132.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffdefffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "img_hash": "0f6eea4f3cbf4bb8abd1e482526d83ed",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "fffdefffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff",
+                                "resource-id": "home-drawer-button",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "home-drawer-button",
+                                "text_hash": "e5a48d9adb28616b4a61ec5d48fe1b2c",
+                                "width": 126.0,
+                                "x": 0.0,
+                                "y": 141.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_menu"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00001_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00001_screenshot.png",
+                        "step_num": 1,
+                        "test_labels": [
+                            "icn_menu"
+                        ],
+                        "timing": 3.43122935295105
+                    },
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "normal-btn",
+                                "enabled": true,
+                                "hash": "OdrUcqNzAfz4r3BwJrI5Hg==\n",
+                                "height": 114.0,
+                                "hier_level": 53,
+                                "human_hash": "XCUIElementTypeOther_X0.0_Y915.0_W840.0_H114.0",
+                                "human_readable": "XCUIElementTypeOther_0.0_915.0_840.0_114.0_XCUIElementTypeOther_ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0_5e6df563c94d69c456ec3205323b2c7f",
+                                "img_hash": "d4882ec24ea077dcafbe65697930afa3",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0",
+                                "resource-id": "normal-btn",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "normal-btn",
+                                "text_hash": "5e6df563c94d69c456ec3205323b2c7f",
+                                "width": 840.0,
+                                "x": 0.0,
+                                "y": 915.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "mi_women"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00002_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00002_screenshot.png",
+                        "step_num": 2,
+                        "test_labels": [
+                            "mi_women"
+                        ],
+                        "timing": 2.8797357082366943
+                    },
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-grid-item-4",
+                                "enabled": true,
+                                "hash": "dGY1Ar3TTBVGWzP5tzvWtw==\n",
+                                "height": 717.0,
+                                "hier_level": 54,
+                                "human_hash": "XCUIElementTypeOther_X18.0_Y1824.0_W624.0_H717.0",
+                                "human_readable": "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_fffdffffffe7f1e7f5e7ffcfffc7e3e781c781c7bfffe781e781e7ffffffc003_2c644d95d0368a16d59ba939b9309646",
+                                "img_hash": "9ac08d2e654df2d37253c385be9d4aaa",
+                                "index": "0",
+                                "is_transformed": true,
+                                "png_hash": "fffdffffffe7f1e7f5e7ffcfffc7e3e781c781c7bfffe781e781e7ffffffc003",
+                                "resource-id": "product-grid-item-4",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-grid-item-4",
+                                "text_hash": "2c644d95d0368a16d59ba939b9309646",
+                                "width": 624.0,
+                                "x": 18.0,
+                                "y": 1824.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "img_blue_denim_shorts"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00003_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00003_screenshot.png",
+                        "step_num": 3,
+                        "test_labels": [
+                            "img_blue_denim_shorts"
+                        ],
+                        "timing": 4.463694095611572
+                    },
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": "product-detail-buttons-add-to-cart",
+                                "enabled": true,
+                                "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+                                "height": 168.0,
+                                "hier_level": 88,
+                                "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+                                "human_readable": "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffdfffff87ff87ffc1ffc9ffc3ffc7ff87fffffffffffffffffffff00010000_81cc46a1c7a72e7eff7a6826968a2f17",
+                                "img_hash": "0eb859f13349641e45e00bab1608a81d",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdfffff87ff87ffc1ffc9ffc3ffc7ff87fffffffffffffffffffff00010000",
+                                "resource-id": "product-detail-buttons-add-to-cart",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": "product-detail-buttons-add-to-cart",
+                                "text_hash": "81cc46a1c7a72e7eff7a6826968a2f17",
+                                "width": 642.0,
+                                "x": 642.0,
+                                "y": 2610.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00004_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00004_screenshot.png",
+                        "step_num": 4,
+                        "test_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "timing": 3.9007651805877686
+                    },
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "XCUIElementTypeOther",
+                            "elem_info": {
+                                "class": "XCUIElementTypeOther",
+                                "content-desc": " 1",
+                                "enabled": true,
+                                "hash": "ZK9OEqxghRnTJQKEfN11Xg==\n",
+                                "height": 114.0,
+                                "hier_level": 21,
+                                "human_hash": "XCUIElementTypeOther_X1128.0_Y150.0_W111.0_H114.0",
+                                "human_readable": "XCUIElementTypeOther_1128.0_150.0_111.0_114.0_XCUIElementTypeOther_fffdfffff87ff87ffc1ffc9ffc3ffc7ff87fffffffffffffffffffff00010000_3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "img_hash": "5f9bfb6e0eb1907500e19aba23eb3a53",
+                                "index": "1",
+                                "is_transformed": true,
+                                "png_hash": "fffdfffff87ff87ffc1ffc9ffc3ffc7ff87fffffffffffffffffffff00010000",
+                                "resource-id": " 1",
+                                "tag_name": "XCUIElementTypeOther",
+                                "text": " 1",
+                                "text_hash": "3b2d5ad352d8a2d272d47a1c32de54ac",
+                                "width": 111.0,
+                                "x": 1128.0,
+                                "y": 150.0
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "icn_cart"
+                        ],
+                        "screenshot_file_name": "iter_00002_step_00005_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00005_screenshot.png",
+                        "step_num": 5,
+                        "test_labels": [
+                            "icn_cart"
+                        ],
+                        "timing": 5.374798774719238
+                    },
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "eVTqrSSQo758itU7vv+eJg==\n",
+                                "height": 2778,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1284_H2778",
+                                "human_readable": "screen_0_0_1284_2778_screen_dffdffff9ffd9fffffffffffffffffffffffffffffffffffffffffff01f10000_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "dffdffff9ffd9fffffffffffffffffffffffffffffffffffffffffff01f10000",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1284,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00002_step_00006_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women/iter_00002_step_00006_screenshot.png",
+                        "step_num": 6,
+                        "timing": 2.870882034301758
+                    }
+                },
+                "steps": [
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "popup_dont_allow"
+                        ],
+                        "run_only_if_label_present": true,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_menu"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "mi_women"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_blue_denim_shorts"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "icn_cart"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    }
+                ],
+                "tags": [],
+                "temp_id": "ffd09ed4-59f6-11ec-99a6-149d997fd38b",
+                "title": "Women",
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

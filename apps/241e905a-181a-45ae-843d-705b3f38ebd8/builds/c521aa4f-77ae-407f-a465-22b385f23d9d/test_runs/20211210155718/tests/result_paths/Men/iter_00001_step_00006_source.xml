@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Preview Build" label="Preview Build" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="0" width="428" height="926" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" label="home-drawer-button toolbar-title    1 Men, back toolbar-title   1  , back toolbar-title" enabled="true" accessible="false" x="0" y="20" width="428" height="71" index="0">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name=" , back toolbar-title" label=" , back toolbar-title" enabled="true" accessible="false" x="0" y="20" width="428" height="71" index="0">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="20" width="428" height="71" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="20" width="428" height="71" index="0"/>
+                            </XCUIElementTypeOther>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name=" , back toolbar-title" label=" , back toolbar-title" enabled="true" accessible="false" x="0" y="20" width="428" height="71" index="1">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="20" width="428" height="27" index="0"/>
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name=" , back toolbar-title" label=" , back toolbar-title" enabled="true" accessible="false" x="0" y="47" width="428" height="44" index="1">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name=" , back" label=" , back" enabled="true" accessible="false" x="0" y="47" width="43" height="44" index="0">
+                                  <XCUIElementTypeButton type="XCUIElementTypeButton" name="header-back" label=" , back" enabled="true" accessible="true" x="0" y="46" width="43" height="46" index="0"/>
+                                </XCUIElementTypeOther>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="412" y="47" width="16" height="44" index="1"/>
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="toolbar-title" label="toolbar-title" enabled="true" accessible="false" x="72" y="58" width="284" height="23" index="2">
+                                  <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="toolbar-title" name="toolbar-title" label="toolbar-title" enabled="true" accessible="true" x="72" y="58" width="284" height="23" index="0"/>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart" label="inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="1">
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-home inapppage-home" label="inapppage-home inapppage-home" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="0"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-prodcutListPage" label="inapppage-prodcutListPage" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="1"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceProductDetailPage" label="inapppage-WooCommerceProductDetailPage" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="2"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="3">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="20" width="428" height="906" index="0">
+                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" accessible="false" x="0" y="91" width="3" height="835" index="0"/>
+                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="1">
+                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="inapppage-WooCommerceCart" label="inapppage-WooCommerceCart" enabled="true" accessible="false" x="0" y="91" width="428" height="835" index="0">
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page  Got a coupon? Apply Coupon Vertical scroll bar, 1 page" label="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page  Got a coupon? Apply Coupon Vertical scroll bar, 1 page" enabled="true" accessible="false" x="0" y="91" width="428" height="764" index="0">
+                                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page" label="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page" enabled="true" accessible="false" x="0" y="91" width="428" height="704" index="0">
+                                                <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page" label="Dark Brown Jeans $150.00 stepper-btn-container  Vertical scroll bar, 1 page" enabled="true" accessible="false" x="0" y="91" width="428" height="704" index="0">
+                                                  <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" accessible="false" x="0" y="91" width="428" height="704" index="0">
+                                                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container " label="Dark Brown Jeans $150.00 stepper-btn-container " enabled="true" accessible="false" x="0" y="91" width="428" height="125" index="0">
+                                                      <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container " label="Dark Brown Jeans $150.00 stepper-btn-container " enabled="true" accessible="false" x="0" y="91" width="428" height="125" index="0">
+                                                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="Dark Brown Jeans $150.00 stepper-btn-container " label="Dark Brown Jeans $150.00 stepper-btn-container " enabled="true" accessible="true" x="0" y="91" width="428" height="125" index="0"/>
+                                                      </XCUIElementTypeOther>
+                                                    </XCUIElementTypeOther>
+                                                    <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" enabled="true" accessible="false" x="395" y="91" width="30" height="704" index="1"/>
+                                                  </XCUIElementTypeScrollView>
+                                                </XCUIElementTypeOther>
+                                              </XCUIElementTypeOther>
+                                              <XCUIElementTypeOther type="XCUIElementTypeOther" name=" Got a coupon? Apply Coupon" label=" Got a coupon? Apply Coupon" enabled="true" accessible="false" x="0" y="794" width="428" height="61" index="1">
+                                                <XCUIElementTypeOther type="XCUIElementTypeOther" name=" Got a coupon? Apply Coupon" label=" Got a coupon? Apply Coupon" enabled="true" accessible="false" x="0" y="794" width="428" height="61" index="0">
+                                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name=" Got a coupon?" label=" Got a coupon?" enabled="true" accessible="false" x="12" y="806" width="165" height="37" index="0">
+                                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="" name="" label="" enabled="true" accessible="true" x="4" y="799" width="52" height="52" index="0"/>
+                                                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Got a coupon?" name="Got a coupon?" label="Got a coupon?" enabled="true" accessible="true" x="60" y="813" width="118" height="23" index="1"/>
+                                                  </XCUIElementTypeOther>
+                                                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="Apply Coupon" label="Apply Coupon" enabled="true" accessible="true" x="312" y="807" width="104" height="35" index="1"/>
+                                                </XCUIElementTypeOther>
+                                              </XCUIElementTypeOther>
+                                            </XCUIElementTypeOther>
+                                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="checkout-sumbit-container" label="checkout-sumbit-container" enabled="true" accessible="false" x="0" y="854" width="428" height="72" index="1">
+                                              <XCUIElementTypeOther type="XCUIElementTypeOther" name="checkout-sumbit" label="checkout-sumbit" enabled="true" accessible="true" x="12" y="863" width="404" height="55" index="0"/>
+                                            </XCUIElementTypeOther>
+                                          </XCUIElementTypeOther>
+                                        </XCUIElementTypeOther>
+                                      </XCUIElementTypeOther>
+                                    </XCUIElementTypeOther>
+                                  </XCUIElementTypeOther>
+                                </XCUIElementTypeOther>
+                              </XCUIElementTypeOther>
+                            </XCUIElementTypeOther>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication>

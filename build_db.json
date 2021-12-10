@@ -16,7 +16,9 @@
                     "package": "com.appilder.demo",
                     "platform": "IOS",
                     "real_app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
-                    "test_runs": [],
+                    "test_runs": [
+                        "20211210155718"
+                    ],
                     "version": "1"
                 }
             },
