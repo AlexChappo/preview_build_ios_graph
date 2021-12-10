@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeStaticText",
+    "content-desc": "Got a coupon?",
+    "enabled": true,
+    "hash": "P6TpCoc4nNeYc/kzfCAnVQ==\n",
+    "height": 69.0,
+    "hier_level": 39,
+    "human_hash": "XCUIElementTypeStaticText_X180.0_Y2439.0_W354.0_H69.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "Got a coupon?",
+    "tag_name": "XCUIElementTypeStaticText",
+    "text": "Got a coupon?",
+    "width": 354.0,
+    "x": 180.0,
+    "y": 2439.0
+}

@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "-login normal-btn normal-btn normal-btn normal-btn Vertical scroll bar, 1 page Horizontal scroll bar, 1 page",
+    "enabled": true,
+    "hash": "JgAt0uy4WXw/Jy33rebAXw==\n",
+    "height": 2502.0,
+    "hier_level": 37,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W840.0_H2502.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "-login normal-btn normal-btn normal-btn normal-btn Vertical scroll bar, 1 page Horizontal scroll bar, 1 page",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "-login normal-btn normal-btn normal-btn normal-btn Vertical scroll bar, 1 page Horizontal scroll bar, 1 page",
+    "width": 840.0,
+    "x": 0.0,
+    "y": 273.0
+}

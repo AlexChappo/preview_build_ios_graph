@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "Home, back toolbar-title    0",
+    "enabled": true,
+    "hash": "YBUgrPEj9d6CgjDZrgPlIw==\n",
+    "height": 213.0,
+    "hier_level": 14,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y60.0_W1284.0_H213.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "Home, back toolbar-title    0",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "Home, back toolbar-title    0",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 60.0
+}

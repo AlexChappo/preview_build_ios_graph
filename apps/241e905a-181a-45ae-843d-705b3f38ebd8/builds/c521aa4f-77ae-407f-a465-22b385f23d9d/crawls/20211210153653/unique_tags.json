@@ -1,0 +1,12 @@
+[
+    "XCUIElementTypeAlert",
+    "XCUIElementTypeApplication",
+    "XCUIElementTypeButton",
+    "XCUIElementTypeImage",
+    "XCUIElementTypeOther",
+    "XCUIElementTypeScrollView",
+    "XCUIElementTypeStaticText",
+    "XCUIElementTypeStatusBar",
+    "XCUIElementTypeWindow",
+    "TemplateMatchElement"
+]

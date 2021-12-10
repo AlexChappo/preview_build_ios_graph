@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "normal-btn",
+    "enabled": true,
+    "hash": "V3LpZaKglt+z96cwyhc2eg==\n",
+    "height": 117.0,
+    "hier_level": 50,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y687.0_W840.0_H117.0",
+    "human_readable": "XCUIElementTypeOther_0.0_687.0_840.0_117.0_XCUIElementTypeOther_ffffffffffffffffffff01ff01ff01ff01ff01ffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f",
+    "image_path": "ZmY3MDFiMDBlMDc3ZmZiNDNiY2I4MDk1Y2QxZjkxNGY.png",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "normal-btn",
+    "screen_hash": "dbb728166397fbbe36c853379200ad82",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "normal-btn",
+    "width": 840.0,
+    "x": 0.0,
+    "y": 687.0
+}

@@ -3018,3 +3018,64 @@ To access the interactive session, select the correct app, and click on "Interac
 2021-12-10 15:33:06,891 INFO     werkzeug -- 127.0.0.1 - - [10/Dec/2021 15:33:06] "GET /api/v2/status HTTP/1.1" 200 -
 2021-12-10 15:33:06,903 INFO     carbon_dao.master_crawl_squash -- Squashed screen dbb728166397fbbe36c853379200ad82.
 2021-12-10 15:33:07,068 INFO     carbon_dao.master_crawl_squash -- Squashed screen fe8443150ae68aea2f213a4845047aa2.
+2021-12-10 15:33:07,171 INFO     carbon_dao.master_crawl_squash -- Squashed screen 87093a27f58c449ebf547b97d26ab718.
+2021-12-10 15:33:07,257 INFO     carbon_dao.master_crawl_squash -- Squashed screen 326a4c05a38253da6586574863fa2f8f.
+2021-12-10 15:33:07,436 INFO     carbon_dao.master_crawl_squash -- Squashed screen 9447f611557cc4779064b7850c1bfd24.
+2021-12-10 15:33:07,759 INFO     carbon_dao.master_crawl_squash -- Squashed screen 008d62e91ec193313fd8e558a5f7bb5d.
+2021-12-10 15:33:07,815 INFO     carbon_dao.master_crawl_squash -- Squashed screen 0f8ea18507c2a7efab30e2ac92f0fb66.
+2021-12-10 15:33:07,854 INFO     carbon_dao.master_crawl_graph -- Extracting sequence data from crawl 20211210152227
+2021-12-10 15:33:07,947 INFO     werkzeug -- 127.0.0.1 - - [10/Dec/2021 15:33:07] "GET / HTTP/1.1" 200 -
+2021-12-10 15:33:10,119 INFO     carbon_graph.q_learning -- Deleted existing Q-matrices.
+2021-12-10 15:33:10,120 INFO     carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20211210152227, app_id: 241e905a-181a-45ae-843d-705b3f38ebd8, build_id: c521aa4f-77ae-407f-a465-22b385f23d9d
+2021-12-10 15:33:10,134 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20211210150234
+2021-12-10 15:33:10,138 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20211210152227
+2021-12-10 15:33:10,143 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2021-12-10 15:33:10,149 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20211210150234
+2021-12-10 15:33:10,153 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20211210152227
+2021-12-10 15:33:10,155 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2021-12-10 15:33:10,166 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2021-12-10 15:33:10,169 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20211210150234
+2021-12-10 15:33:10,172 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20211210152227
+2021-12-10 15:33:10,178 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/hashes_to_labels.json
+2021-12-10 15:33:10,179 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/human_readable_to_labels.json
+2021-12-10 15:33:10,180 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/label_to_hash_dicts.json
+2021-12-10 15:33:10,180 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/human_readable_to_paths.json
+2021-12-10 15:33:10,184 INFO     carbon_tasks.generate_auto_labels_task -- classifying 9 unique screens
+2021-12-10 15:33:10,184 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-10 15:33:10,184 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-10 15:33:10,206 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,216 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,219 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,222 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,225 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,231 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,294 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,295 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.10659882599998127 seconds
+2021-12-10 15:33:10,298 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.11059497600012946 seconds
+2021-12-10 15:33:10,300 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,301 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.11481197299985979 seconds
+2021-12-10 15:33:10,304 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.11752945000012005 seconds
+2021-12-10 15:33:10,306 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:10,312 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.12112480199994025 seconds
+2021-12-10 15:33:10,315 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.12789040100005877 seconds
+2021-12-10 15:33:10,320 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.13078842999993867 seconds
+2021-12-10 15:33:10,320 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.13062935800007835 seconds
+2021-12-10 15:33:10,321 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.1315318329998263 seconds
+2021-12-10 15:33:10,322 INFO     carbon_tasks.generate_auto_labels_task -- classifying 257 unique elems
+2021-12-10 15:33:10,338 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-10 15:33:10,338 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-10 15:33:10,347 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-10 15:33:11,903 INFO     carbon_explore.interactive -- Interactive explore -- status -- start
+2021-12-10 15:33:11,903 INFO     carbon_explore.interactive -- Interactive explore -- status -- end
+2021-12-10 15:33:11,903 INFO     werkzeug -- 127.0.0.1 - - [10/Dec/2021 15:33:11] "GET /interactive/api/v1/status HTTP/1.1" 200 -
+2021-12-10 15:33:11,904 INFO     werkzeug -- 127.0.0.1 - - [10/Dec/2021 15:33:11] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-10 15:33:12,179 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_add_to_cart, score: 1.0
+2021-12-10 15:33:12,183 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: icn_cart, score: 1.0
+2021-12-10 15:33:12,186 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: icn_menu, score: 1.0
+2021-12-10 15:33:12,188 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: img_blue_denim_shorts, score: 1.0
+2021-12-10 15:33:12,192 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: mi_men, score: 1.0
+2021-12-10 15:33:12,195 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: mi_women, score: 1.0
+2021-12-10 15:33:12,197 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: popup_dont_allow, score: 1.0
+2021-12-10 15:33:12,202 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.8637970750000932 seconds
+2021-12-10 15:33:12,205 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20211210152227
+2021-12-10 15:33:12,207 INFO     carbon_controllers.crawls -- Removing threaded log file handler for crawl.

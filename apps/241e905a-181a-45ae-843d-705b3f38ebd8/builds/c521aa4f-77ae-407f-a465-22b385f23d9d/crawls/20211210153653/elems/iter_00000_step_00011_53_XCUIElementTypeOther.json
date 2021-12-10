@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-data-sale-price",
+    "enabled": true,
+    "hash": "rziQbgAb/Sq3ZaOJZ4AU8w==\n",
+    "height": 69.0,
+    "hier_level": 41,
+    "human_hash": "XCUIElementTypeOther_X36.0_Y1812.0_W1212.0_H69.0",
+    "index": "2",
+    "is_transformed": true,
+    "resource-id": "product-data-sale-price",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-data-sale-price",
+    "width": 1212.0,
+    "x": 36.0,
+    "y": 1812.0
+}

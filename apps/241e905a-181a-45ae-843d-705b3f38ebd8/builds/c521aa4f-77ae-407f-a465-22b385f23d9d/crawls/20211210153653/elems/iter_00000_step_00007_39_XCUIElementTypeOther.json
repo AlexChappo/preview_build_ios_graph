@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "inapppage-prodcutListPage",
+    "enabled": true,
+    "hash": "kALLV5XpR4mpGOTcC3zIhQ==\n",
+    "height": 2505.0,
+    "hier_level": 31,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H2505.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "inapppage-prodcutListPage",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "inapppage-prodcutListPage",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 273.0
+}

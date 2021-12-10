@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "Vertical scroll bar, 1 page",
+    "enabled": true,
+    "hash": "qQIxBe0NresGXjDOCNo1Lw==\n",
+    "height": 2403.0,
+    "hier_level": 53,
+    "human_hash": "XCUIElementTypeOther_X741.0_Y273.0_W90.0_H2403.0",
+    "index": "2",
+    "is_transformed": true,
+    "resource-id": "Vertical scroll bar, 1 page",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "0%",
+    "width": 90.0,
+    "x": 741.0,
+    "y": 273.0
+}

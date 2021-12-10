@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-grid-item-5",
+    "enabled": true,
+    "hash": "Zy5fgVOJRi7L2/wHdaLLdg==\n",
+    "height": 717.0,
+    "hier_level": 54,
+    "human_hash": "XCUIElementTypeOther_X642.0_Y1824.0_W624.0_H717.0",
+    "human_readable": "XCUIElementTypeOther_642.0_1824.0_624.0_717.0_XCUIElementTypeOther_ffffffffffffffffe007c1c38ff18001c003ffffffffffffffff80ff87ffffff_6fb9dc97c8803946538b1da5c9274398",
+    "image_path": "NTY3ZjA2ZWFlMzZhZGQ5NzI1YjYzNjU0MWViYmU0MWM.png",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-grid-item-5",
+    "screen_hash": "9c72f623408aaeb10668306ec23f5269",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-grid-item-5",
+    "width": 624.0,
+    "x": 642.0,
+    "y": 1824.0
+}

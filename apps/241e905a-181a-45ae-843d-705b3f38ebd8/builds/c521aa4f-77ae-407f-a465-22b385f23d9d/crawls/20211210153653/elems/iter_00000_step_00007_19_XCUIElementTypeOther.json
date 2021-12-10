@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "Home, back",
+    "enabled": true,
+    "hash": "osSFD3k1GAY1sN2LkM/14g==\n",
+    "height": 132.0,
+    "hier_level": 18,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W129.0_H132.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "Home, back",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "Home, back",
+    "width": 129.0,
+    "x": 0.0,
+    "y": 141.0
+}

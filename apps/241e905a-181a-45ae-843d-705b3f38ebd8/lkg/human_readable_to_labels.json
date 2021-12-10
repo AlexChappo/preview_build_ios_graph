@@ -1,7 +1,13 @@
 {
     "elems": {
+        "XCUIElementTypeButton_237.0_1542.0_405.0_135.0_XCUIElementTypeButton_fc1fffffffffffffffffffffe41fe007e007e007e207ffffffff7fff7fff380f_707b6714a4a2d3936462203700c6c05c": [
+            "popup_dont_allow"
+        ],
         "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffffffffffffffffffffc07fc07fc07fc07fc07fc07ffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c": [
             "icn_menu"
+        ],
+        "XCUIElementTypeOther_0.0_687.0_840.0_117.0_XCUIElementTypeOther_ffffffffffffffffffff01ff01ff01ff01ff01ffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f": [
+            "mi_my_accessories"
         ],
         "XCUIElementTypeOther_0.0_801.0_840.0_114.0_XCUIElementTypeOther_ffffffffffffffff7fff3fff1fff1fff1fff1fffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f": [
             "mi_men"
@@ -20,6 +26,9 @@
         ],
         "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_fc1fffffffffffffffffffffe41fe007e007e007e207ffffffff7fff7fff380f_9d4568c009d203ab10e33ea9953a0264": [
             "popup_dont_allow"
+        ],
+        "XCUIElementTypeOther_642.0_1824.0_624.0_717.0_XCUIElementTypeOther_ffffffffffffffffe007c1c38ff18001c003ffffffffffffffff80ff87ffffff_6fb9dc97c8803946538b1da5c9274398": [
+            "img_buddha_bracelet"
         ],
         "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffffffffffffffffcbfffcfeff7eff7eff7fff7000fffff02ff02ffffff03ff_81cc46a1c7a72e7eff7a6826968a2f17": [
             "btn_add_to_cart"

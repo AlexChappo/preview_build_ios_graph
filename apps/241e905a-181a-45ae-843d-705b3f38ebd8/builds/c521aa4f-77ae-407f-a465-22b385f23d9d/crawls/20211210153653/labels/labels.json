@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00002_101_XCUIElementTypeButton.png": [
+            "popup_dont_allow"
+        ],
+        "iter_00000_step_00006_19_XCUIElementTypeOther.png": [
+            "icn_menu"
+        ],
+        "iter_00000_step_00006_64_XCUIElementTypeOther.png": [
+            "mi_my_accessories"
+        ],
+        "iter_00000_step_00008_69_XCUIElementTypeOther.png": [
+            "img_buddha_bracelet"
+        ],
+        "iter_00000_step_00012_126_XCUIElementTypeOther.png": [
+            "btn_add_to_cart"
+        ],
+        "iter_00000_step_00012_24_XCUIElementTypeOther.png": [
+            "icn_cart"
+        ]
+    },
+    "screens": {}
+}

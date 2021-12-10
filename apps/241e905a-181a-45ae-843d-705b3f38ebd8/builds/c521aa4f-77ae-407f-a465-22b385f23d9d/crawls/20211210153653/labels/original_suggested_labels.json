@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00002_100_XCUIElementTypeOther.png": {
+            "popup_dont_allow": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
+        "iter_00000_step_00006_66_XCUIElementTypeOther.png": {
+            "mi_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
+        "iter_00000_step_00006_68_XCUIElementTypeOther.png": {
+            "mi_women": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        }
+    },
+    "screens": {}
+}

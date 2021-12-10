@@ -1,0 +1,17 @@
+{
+    "app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
+    "custom_name": "",
+    "effective_num_tests": 0,
+    "eyes_api_key": null,
+    "is_interactive": true,
+    "is_noop": false,
+    "is_test": false,
+    "max_iterations": 1,
+    "max_steps": 150,
+    "num_iterations": 1,
+    "package": "com.appilder.demo",
+    "platform": "IOS",
+    "rand_seed": 1639166408,
+    "real_app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
+    "test_wildcard": "*"
+}

@@ -1,5 +1,23 @@
 {
     "elems": {
+        "iter_00000_step_00002_101_XCUIElementTypeButton.png": {
+            "popup_dont_allow": {
+                "all_scores": {
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
+        "iter_00000_step_00006_64_XCUIElementTypeOther.png": {
+            "mi_my_accessories": {
+                "all_scores": {
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
         "iter_00000_step_00006_68_XCUIElementTypeOther.png": {
             "mi_women": {
                 "all_scores": {

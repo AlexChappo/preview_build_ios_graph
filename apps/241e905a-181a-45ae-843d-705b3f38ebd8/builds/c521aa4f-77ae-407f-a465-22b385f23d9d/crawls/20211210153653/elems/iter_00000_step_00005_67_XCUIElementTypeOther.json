@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "normal-btn",
+    "enabled": true,
+    "hash": "OdrUcqNzAfz4r3BwJrI5Hg==\n",
+    "height": 114.0,
+    "hier_level": 52,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y915.0_W840.0_H114.0",
+    "index": "3",
+    "is_transformed": true,
+    "resource-id": "normal-btn",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "normal-btn",
+    "width": 840.0,
+    "x": 0.0,
+    "y": 915.0
+}

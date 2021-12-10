@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeButton",
+    "content-desc": "Accessories, back",
+    "enabled": true,
+    "hash": "EGR1ccCwYFTOJRBUNtrxVw==\n",
+    "height": 138.0,
+    "hier_level": 19,
+    "human_hash": "XCUIElementTypeButton_X0.0_Y138.0_W129.0_H138.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "header-back",
+    "tag_name": "XCUIElementTypeButton",
+    "text": "Accessories, back",
+    "width": 129.0,
+    "x": 0.0,
+    "y": 138.0
+}

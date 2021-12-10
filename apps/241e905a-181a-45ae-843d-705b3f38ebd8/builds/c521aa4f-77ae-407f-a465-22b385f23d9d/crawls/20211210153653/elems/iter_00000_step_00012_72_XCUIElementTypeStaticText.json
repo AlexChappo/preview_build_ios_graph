@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeStaticText",
+    "content-desc": "Short description",
+    "enabled": true,
+    "hash": "v+KTyVpeWskInPMiJPhdKg==\n",
+    "height": 66.0,
+    "hier_level": 55,
+    "human_hash": "XCUIElementTypeStaticText_X36.0_Y2139.0_W417.0_H66.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "Short description",
+    "tag_name": "XCUIElementTypeStaticText",
+    "text": "Short description",
+    "width": 417.0,
+    "x": 36.0,
+    "y": 2139.0
+}

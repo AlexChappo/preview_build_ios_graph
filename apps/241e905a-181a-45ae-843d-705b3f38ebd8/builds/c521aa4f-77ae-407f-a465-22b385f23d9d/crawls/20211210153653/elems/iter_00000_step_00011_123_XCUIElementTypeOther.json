@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-detail-buttons-buy-now product-detail-buttons-add-to-cart",
+    "enabled": true,
+    "hash": "iQ0eRpjhhxIq/zXmbRqCrA==\n",
+    "height": 168.0,
+    "hier_level": 86,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y2610.0_W1284.0_H168.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-detail-buttons-buy-now product-detail-buttons-add-to-cart",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-detail-buttons-buy-now product-detail-buttons-add-to-cart",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 2610.0
+}
