@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00002_100_XCUIElementTypeOther.png": [
+            "popup_dont_allow"
+        ],
+        "iter_00000_step_00006_19_XCUIElementTypeOther.png": [
+            "icn_menu"
+        ],
+        "iter_00000_step_00006_66_XCUIElementTypeOther.png": [
+            "mi_men"
+        ],
+        "iter_00000_step_00008_68_XCUIElementTypeOther.png": [
+            "img_dark_blue_jeans"
+        ],
+        "iter_00000_step_00012_126_XCUIElementTypeOther.png": [
+            "btn_add_to_cart"
+        ],
+        "iter_00000_step_00012_24_XCUIElementTypeOther.png": [
+            "icn_cart"
+        ]
+    },
+    "screens": {}
+}

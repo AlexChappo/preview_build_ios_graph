@@ -1,0 +1,33 @@
+{
+    "apps": {
+        "241e905a-181a-45ae-843d-705b3f38ebd8": {
+            "builds": {
+                "c521aa4f-77ae-407f-a465-22b385f23d9d": {
+                    "app": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/app/com.appilder.demo-1.zip",
+                    "crawls": [
+                        "20211210150234"
+                    ],
+                    "created": "2021-12-10 20:01:18.957868",
+                    "local_build_id": "c521aa4f-77ae-407f-a465-22b385f23d9d",
+                    "md5_sum": "49e6b477441e024f1be5b655642d3a25",
+                    "original_file_name": "com.appilder.demo-1.zip",
+                    "package": "com.appilder.demo",
+                    "platform": "IOS",
+                    "real_app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
+                    "test_runs": [],
+                    "version": "1"
+                }
+            },
+            "default_package": "com.appilder.demo",
+            "local_app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
+            "name": "Preview Build",
+            "platform": "ios"
+        }
+    },
+    "builds_by_hash": {
+        "49e6b477441e024f1be5b655642d3a25": {
+            "app_id": "241e905a-181a-45ae-843d-705b3f38ebd8",
+            "build_id": "c521aa4f-77ae-407f-a465-22b385f23d9d"
+        }
+    }
+}

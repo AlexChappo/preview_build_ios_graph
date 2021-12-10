@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "Apply Coupon",
+    "enabled": true,
+    "hash": "YrA+CC072J4u9kuOWdcoEA==\n",
+    "height": 105.0,
+    "hier_level": 39,
+    "human_hash": "XCUIElementTypeOther_X936.0_Y2421.0_W312.0_H105.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "Apply Coupon",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "Apply Coupon",
+    "width": 312.0,
+    "x": 936.0,
+    "y": 2421.0
+}

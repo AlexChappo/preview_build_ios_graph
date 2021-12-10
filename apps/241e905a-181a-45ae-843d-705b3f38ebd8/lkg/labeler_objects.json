@@ -1,0 +1,636 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png": "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png",
+            "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png": "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png",
+            "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png": "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png",
+            "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png": "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png",
+            "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png": "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png",
+            "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png": "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png"
+        },
+        "elems_to_infos": {
+            "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png": {
+                "context_screen_img": "bbaf943e5efbf4c714b8c9f7039e0c2e.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png",
+                    "hash": "HMCzkvQM7QpSBGkRyMvRJQ==\n",
+                    "height": 132.0,
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W126.0_H132.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": "home-drawer-button",
+                    "width": 126.0,
+                    "x": 0.0,
+                    "y": 141.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    "home-drawer-button"
+                ]
+            },
+            "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png": {
+                "context_screen_img": "e41550a24dc41e3d9c52f31267b591e0.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png",
+                    "hash": "dGY1Ar3TTBVGWzP5tzvWtw==\n",
+                    "height": 717.0,
+                    "human_hash": "XCUIElementTypeOther_X18.0_Y1824.0_W624.0_H717.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": "product-grid-item-4",
+                    "width": 624.0,
+                    "x": 18.0,
+                    "y": 1824.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    "product-grid-item-4"
+                ]
+            },
+            "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png": {
+                "context_screen_img": "c4671f589aec48a0276f0ea737d078aa.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png",
+                    "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+                    "height": 168.0,
+                    "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": "product-detail-buttons-add-to-cart",
+                    "width": 642.0,
+                    "x": 642.0,
+                    "y": 2610.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    "product-detail-buttons-add-to-cart"
+                ]
+            },
+            "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png": {
+                "context_screen_img": "dbb728166397fbbe36c853379200ad82.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png",
+                    "hash": "zFIAh/12msXMAo+EwEz1KA==\n",
+                    "height": 114.0,
+                    "human_hash": "XCUIElementTypeOther_X0.0_Y801.0_W840.0_H114.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": "normal-btn",
+                    "width": 840.0,
+                    "x": 0.0,
+                    "y": 801.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    "normal-btn"
+                ]
+            },
+            "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png": {
+                "context_screen_img": "6de8d2e2bcdcdc9d0b0f679d03965772.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png",
+                    "hash": "2/3rsrQjNrspvqWqKktMgA==\n",
+                    "height": 135.0,
+                    "human_hash": "XCUIElementTypeOther_X237.0_Y1542.0_W405.0_H135.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": "",
+                    "width": 405.0,
+                    "x": 237.0,
+                    "y": 1542.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    ""
+                ]
+            },
+            "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png": {
+                "context_screen_img": "e8bd778e5bfa575f6e618b9f90f375a7.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png"
+                ],
+                "elem_info": {
+                    "class": "XCUIElementTypeOther",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/lkg/data/elems/YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png",
+                    "hash": "ZK9OEqxghRnTJQKEfN11Xg==\n",
+                    "height": 114.0,
+                    "human_hash": "XCUIElementTypeOther_X1128.0_Y150.0_W111.0_H114.0",
+                    "tag_name": "XCUIElementTypeOther",
+                    "text": " 1",
+                    "width": 111.0,
+                    "x": 1128.0,
+                    "y": 150.0
+                },
+                "tags": [
+                    "other",
+                    "all_elems",
+                    "xcuielementtypeother"
+                ],
+                "text": [
+                    "_1"
+                ]
+            }
+        },
+        "sorted_elems": [
+            "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png",
+            "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png",
+            "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png",
+            "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png",
+            "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png",
+            "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png"
+        ],
+        "uniques_to_dupes": {
+            "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png": [
+                "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc.png"
+            ],
+            "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png": [
+                "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU.png"
+            ],
+            "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png": [
+                "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png"
+            ],
+            "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png": [
+                "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI.png"
+            ],
+            "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png": [
+                "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU.png"
+            ],
+            "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png": [
+                "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc.png"
+            ]
+        }
+    },
+    "screens": {
+        "dupe_to_master_key": {
+            "6de8d2e2bcdcdc9d0b0f679d03965772.png": "6de8d2e2bcdcdc9d0b0f679d03965772.png",
+            "8636e20e06f40a18aa5127f416b8e7b0.png": "8636e20e06f40a18aa5127f416b8e7b0.png",
+            "bbaf943e5efbf4c714b8c9f7039e0c2e.png": "bbaf943e5efbf4c714b8c9f7039e0c2e.png",
+            "c4671f589aec48a0276f0ea737d078aa.png": "c4671f589aec48a0276f0ea737d078aa.png",
+            "dbb728166397fbbe36c853379200ad82.png": "dbb728166397fbbe36c853379200ad82.png",
+            "e41550a24dc41e3d9c52f31267b591e0.png": "e41550a24dc41e3d9c52f31267b591e0.png",
+            "e8bd778e5bfa575f6e618b9f90f375a7.png": "e8bd778e5bfa575f6e618b9f90f375a7.png"
+        },
+        "screens_to_elems": {},
+        "screens_to_infos": {
+            "6de8d2e2bcdcdc9d0b0f679d03965772.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "6de8d2e2bcdcdc9d0b0f679d03965772.png"
+                ],
+                "tags": [
+                    "xcuielementtypestatusbar",
+                    "alert",
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "statusbar",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypealert",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "dont_allow",
+                    "allow",
+                    "ssid,_3_of_3_wi-fi_bars",
+                    "3:03_pm",
+                    "preview_build_would_like_to_send_you_notifications",
+                    "_",
+                    "no_signal",
+                    "0%",
+                    "notifications_may_include_alerts,_sounds,_and_icon_badges._these_can_be_configured_in_settings.",
+                    "not_charging"
+                ]
+            },
+            "8636e20e06f40a18aa5127f416b8e7b0.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "8636e20e06f40a18aa5127f416b8e7b0.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "inapppage-woocommerceproductdetailpage",
+                    "apply_coupon",
+                    "inapppage-home_inapppage-home",
+                    "dark_brown_jeans_$150.00_stepper-btn-container_",
+                    "0%",
+                    "_,_back",
+                    "home-drawer-button_toolbar-title____1_men,_back_toolbar-title___1__,_back_toolbar-title",
+                    "preview_build",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage_inapppage-woocommercecart_home-drawer-button_toolbar-title____1_men,_back_toolbar-title___1__,_back_toolbar-title",
+                    "toolbar-title",
+                    "checkout-sumbit-container",
+                    "dark_brown_jeans_$150.00_stepper-btn-container__vertical_scroll_bar,_1_page__got_a_coupon?_apply_coupon_vertical_scroll_bar,_1_page",
+                    "_,_back_toolbar-title",
+                    "got_a_coupon?",
+                    "inapppage-woocommercecart",
+                    "checkout-sumbit",
+                    "inapppage-prodcutlistpage",
+                    "dark_brown_jeans_$150.00_stepper-btn-container__vertical_scroll_bar,_1_page",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage_inapppage-woocommercecart",
+                    "_got_a_coupon?_apply_coupon",
+                    "_got_a_coupon?"
+                ]
+            },
+            "bbaf943e5efbf4c714b8c9f7039e0c2e.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "bbaf943e5efbf4c714b8c9f7039e0c2e.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext"
+                ],
+                "text": [
+                    "",
+                    "undefined-item-0_undefined-item-1",
+                    "inapppage-home_inapppage-home",
+                    "grid-0-card_undefined-item-0_undefined-item-1",
+                    "_0",
+                    "0%",
+                    "inapppage-home_inapppage-home_home-drawer-button_toolbar-title____0",
+                    "grid-0-card_undefined-item-0_undefined-item-1_vertical_scroll_bar,_1_page_horizontal_scroll_bar,_1_page",
+                    "home_cart_wishlist_login",
+                    "inapppage-homepage",
+                    "tab_description",
+                    "toolbar-title",
+                    "tab_list",
+                    "inapppage-homepage_home_cart_wishlist_login_vertical_scroll_bar,_2_pages",
+                    "grid-0-card",
+                    "home-drawer-button",
+                    "inapppage-home",
+                    "grid-0-container-item-0_grid-0-container-item-1_grid-0-container-item-2",
+                    "choose_category",
+                    "home_cart_wishlist_login_vertical_scroll_bar,_2_pages",
+                    "___0",
+                    "home-drawer-button_toolbar-title____0",
+                    "preview_build"
+                ]
+            },
+            "c4671f589aec48a0276f0ea737d078aa.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "c4671f589aec48a0276f0ea737d078aa.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "inapppage-woocommerceproductdetailpage",
+                    "product-list-item-1",
+                    "inapppage-home_inapppage-home",
+                    "stepper-minus",
+                    "product-data-stock-text_product-data-product-name_product-data-sale-price",
+                    "_0",
+                    "select_product_count_stepper-btn-container",
+                    "select_product_count",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6",
+                    "0%",
+                    "product-list-item-2",
+                    "stepper-minus_stepper-count_stepper-plus",
+                    "stepper-count",
+                    "widget-0",
+                    "short_description_view",
+                    "product-list-item-5",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-list-item-3",
+                    "product-detail-buttons-buy-now_product-detail-buttons-add-to-cart",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage",
+                    "toolbar-title",
+                    "description_view",
+                    "view",
+                    "reviews_(0)",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage_home-drawer-button_toolbar-title____0_home,_back_toolbar-title____0_men,_back_toolbar-title___0",
+                    "short_description",
+                    "stepper-btn-container",
+                    "_",
+                    "widget-2",
+                    "widget-1",
+                    "product-list-item-0",
+                    "product-data-product-name",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3_vertical_scroll_bar,_2_pages_horizontal_scroll_bar,_1_page",
+                    "product-list-item-4",
+                    "widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-detail-buttons-buy-now",
+                    "__0",
+                    "product-data-stock-text",
+                    "home-drawer-button_toolbar-title____0_home,_back_toolbar-title____0_men,_back_toolbar-title___0",
+                    "product-list-item-6",
+                    "inapppage-prodcutlistpage",
+                    "description",
+                    "related_products",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6_vertical_scroll_bar,_1_page",
+                    "product-detail-buttons-add-to-cart",
+                    "product-data-sale-price",
+                    "men,_back",
+                    "reviews_(0)_view",
+                    "men,_back_toolbar-title___0",
+                    "product_scroller-3",
+                    "stepper-plus",
+                    "nam_nec_tellus_a_odio_tincidunt_auctor_a_ornare_odio._sed_non_mauris_vitae_erat_consequat_auctor_eu_in_elit._class_aptent_taciti_sociosqu_ad_litora_torquent_per_conubia_nostra,_per_inceptos_himenaeos._mauris_in_erat_justo._nullam_ac_urna_eu_felis_dapibus_condimentum_sit_amet_a_augue._sed_non_neque_elit_sed.",
+                    "preview_build"
+                ]
+            },
+            "dbb728166397fbbe36c853379200ad82.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "dbb728166397fbbe36c853379200ad82.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypeimage",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "image"
+                ],
+                "text": [
+                    "",
+                    "home-drawer-button",
+                    "inapppage-home_inapppage-home_home-drawer-button_toolbar-title____0",
+                    "-login_normal-btn_normal-btn_normal-btn_normal-btn_vertical_scroll_bar,_1_page_horizontal_scroll_bar,_1_page",
+                    "inapppage-home_inapppage-home",
+                    "toolbar-title",
+                    "-login",
+                    "inapppage-home",
+                    "-login_normal-btn_normal-btn_normal-btn_normal-btn",
+                    "normal-btn_normal-btn_normal-btn_normal-btn",
+                    "0%",
+                    "___0",
+                    "_0",
+                    "home-drawer-button_toolbar-title____0",
+                    "normal-btn",
+                    "preview_build"
+                ]
+            },
+            "e41550a24dc41e3d9c52f31267b591e0.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "e41550a24dc41e3d9c52f31267b591e0.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "product-grid-item-4",
+                    "product-grid-item-5",
+                    "home-drawer-button_toolbar-title____0_home,_back_toolbar-title____0",
+                    "inapppage-home_inapppage-home",
+                    "__sort_product-grid-item-0_product-grid-item-1_product-grid-item-2_product-grid-item-3_product-grid-item-4_product-grid-item-5_product-grid-item-6_product-grid-item-7",
+                    "_0",
+                    "0%",
+                    "product-grid-item-2",
+                    "product-grid-item-7",
+                    "product-grid-item-0_product-grid-item-1_product-grid-item-2_product-grid-item-3_product-grid-item-4_product-grid-item-5_product-grid-item-6_product-grid-item-7",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage",
+                    "product-grid-item-0",
+                    "product-grid-item-3",
+                    "product-grid-item-6_product-grid-item-7",
+                    "product-grid-item-0_product-grid-item-1",
+                    "product-grid-item-4_product-grid-item-5",
+                    "home,_back_toolbar-title____0",
+                    "__sort",
+                    "toolbar-title",
+                    "product-grid-item-2_product-grid-item-3",
+                    "home,_back",
+                    "product-grid-item-1",
+                    "inapppage-prodcutlistpage",
+                    "product-grid-item-6",
+                    "__sort_product-grid-item-0_product-grid-item-1_product-grid-item-2_product-grid-item-3_product-grid-item-4_product-grid-item-5_product-grid-item-6_product-grid-item-7_vertical_scroll_bar,_2_pages_horizontal_scroll_bar,_1_page",
+                    "___0",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_home-drawer-button_toolbar-title____0_home,_back_toolbar-title____0",
+                    "preview_build"
+                ]
+            },
+            "e8bd778e5bfa575f6e618b9f90f375a7.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "e8bd778e5bfa575f6e618b9f90f375a7.png"
+                ],
+                "tags": [
+                    "application",
+                    "other",
+                    "statictext",
+                    "window",
+                    "button",
+                    "xcuielementtypeapplication",
+                    "scrollview",
+                    "all_screens",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "xcuielementtypebutton"
+                ],
+                "text": [
+                    "",
+                    "inapppage-woocommerceproductdetailpage",
+                    "product-list-item-1",
+                    "inapppage-home_inapppage-home",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage_home-drawer-button_toolbar-title____1_home,_back_toolbar-title____1_men,_back_toolbar-title___1",
+                    "stepper-minus",
+                    "product-data-stock-text_product-data-product-name_product-data-sale-price",
+                    "home-drawer-button_toolbar-title____1_home,_back_toolbar-title____1_men,_back_toolbar-title___1",
+                    "select_product_count_stepper-btn-container",
+                    "select_product_count",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6",
+                    "0%",
+                    "product-list-item-2",
+                    "stepper-minus_stepper-count_stepper-plus",
+                    "stepper-count",
+                    "widget-0",
+                    "short_description_view",
+                    "product-list-item-5",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-list-item-3",
+                    "product-detail-buttons-buy-now_product-detail-buttons-add-to-cart",
+                    "inapppage-home_inapppage-home_inapppage-prodcutlistpage_inapppage-woocommerceproductdetailpage",
+                    "men,_back_toolbar-title___1",
+                    "__1",
+                    "toolbar-title",
+                    "description_view",
+                    "view",
+                    "reviews_(0)",
+                    "product-list-item-0",
+                    "short_description",
+                    "stepper-btn-container",
+                    "_",
+                    "widget-2",
+                    "widget-1",
+                    "product-data-product-name",
+                    "__product-data-stock-text_product-data-product-name_product-data-sale-price_select_product_count_stepper-btn-container_widget-0_widget-1_widget-2_product_scroller-3_vertical_scroll_bar,_2_pages_horizontal_scroll_bar,_1_page",
+                    "product-list-item-4",
+                    "widget-0_widget-1_widget-2_product_scroller-3",
+                    "product-detail-buttons-buy-now",
+                    "product-data-stock-text",
+                    "product-list-item-6",
+                    "inapppage-prodcutlistpage",
+                    "description",
+                    "related_products",
+                    "product-list-item-0_product-list-item-1_product-list-item-2_product-list-item-3_product-list-item-4_product-list-item-5_product-list-item-6_vertical_scroll_bar,_1_page",
+                    "product-detail-buttons-add-to-cart",
+                    "product-data-sale-price",
+                    "men,_back",
+                    "reviews_(0)_view",
+                    "product_scroller-3",
+                    "stepper-plus",
+                    "_1",
+                    "nam_nec_tellus_a_odio_tincidunt_auctor_a_ornare_odio._sed_non_mauris_vitae_erat_consequat_auctor_eu_in_elit._class_aptent_taciti_sociosqu_ad_litora_torquent_per_conubia_nostra,_per_inceptos_himenaeos._mauris_in_erat_justo._nullam_ac_urna_eu_felis_dapibus_condimentum_sit_amet_a_augue._sed_non_neque_elit_sed.",
+                    "preview_build"
+                ]
+            }
+        },
+        "sorted_screens": [
+            "e8bd778e5bfa575f6e618b9f90f375a7.png",
+            "8636e20e06f40a18aa5127f416b8e7b0.png",
+            "dbb728166397fbbe36c853379200ad82.png",
+            "bbaf943e5efbf4c714b8c9f7039e0c2e.png",
+            "6de8d2e2bcdcdc9d0b0f679d03965772.png",
+            "c4671f589aec48a0276f0ea737d078aa.png",
+            "e41550a24dc41e3d9c52f31267b591e0.png"
+        ],
+        "uniques_to_dupes": {
+            "6de8d2e2bcdcdc9d0b0f679d03965772.png": [
+                "6de8d2e2bcdcdc9d0b0f679d03965772.png"
+            ],
+            "8636e20e06f40a18aa5127f416b8e7b0.png": [
+                "8636e20e06f40a18aa5127f416b8e7b0.png"
+            ],
+            "bbaf943e5efbf4c714b8c9f7039e0c2e.png": [
+                "bbaf943e5efbf4c714b8c9f7039e0c2e.png"
+            ],
+            "c4671f589aec48a0276f0ea737d078aa.png": [
+                "c4671f589aec48a0276f0ea737d078aa.png"
+            ],
+            "dbb728166397fbbe36c853379200ad82.png": [
+                "dbb728166397fbbe36c853379200ad82.png"
+            ],
+            "e41550a24dc41e3d9c52f31267b591e0.png": [
+                "e41550a24dc41e3d9c52f31267b591e0.png"
+            ],
+            "e8bd778e5bfa575f6e618b9f90f375a7.png": [
+                "e8bd778e5bfa575f6e618b9f90f375a7.png"
+            ]
+        }
+    }
+}

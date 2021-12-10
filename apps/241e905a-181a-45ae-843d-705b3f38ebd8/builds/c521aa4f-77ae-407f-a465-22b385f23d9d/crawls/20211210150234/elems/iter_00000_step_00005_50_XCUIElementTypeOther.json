@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "-login",
+    "enabled": true,
+    "hash": "xIC7MfKglb058M4Ylrgt4Q==\n",
+    "height": 300.0,
+    "hier_level": 41,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W840.0_H300.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "-login",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "-login",
+    "width": 840.0,
+    "x": 0.0,
+    "y": 273.0
+}

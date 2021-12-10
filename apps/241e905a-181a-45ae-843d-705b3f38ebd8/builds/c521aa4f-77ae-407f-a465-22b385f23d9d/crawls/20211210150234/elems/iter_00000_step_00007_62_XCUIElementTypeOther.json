@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-grid-item-2 product-grid-item-3",
+    "enabled": true,
+    "hash": "LA1E1xRpxeKOzRkJ7oM6vg==\n",
+    "height": 720.0,
+    "hier_level": 50,
+    "human_hash": "XCUIElementTypeOther_X18.0_Y1107.0_W1248.0_H720.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-grid-item-2 product-grid-item-3",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-grid-item-2 product-grid-item-3",
+    "width": 1248.0,
+    "x": 18.0,
+    "y": 1107.0
+}

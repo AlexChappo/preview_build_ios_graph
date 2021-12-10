@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart",
+    "enabled": true,
+    "hash": "Qm+PYwuzlAa6G3c9TGL5dA==\n",
+    "height": 2718.0,
+    "hier_level": 20,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y60.0_W1284.0_H2718.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "inapppage-home inapppage-home inapppage-prodcutListPage inapppage-WooCommerceProductDetailPage inapppage-WooCommerceCart",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 60.0
+}

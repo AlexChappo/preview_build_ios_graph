@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "inapppage-WooCommerceProductDetailPage",
+    "enabled": true,
+    "hash": "5hAWDMJyk6P6+1eMn4t+iw==\n",
+    "height": 2505.0,
+    "hier_level": 29,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H2505.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "inapppage-WooCommerceProductDetailPage",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "inapppage-WooCommerceProductDetailPage",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 273.0
+}

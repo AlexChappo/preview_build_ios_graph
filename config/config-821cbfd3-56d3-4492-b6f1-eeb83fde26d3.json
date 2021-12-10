@@ -1,0 +1,10 @@
+{
+    "company": "org_FoTdIkUzedyHrAhj",
+    "email": "alexchappo@gmail.com",
+    "is_validated": true,
+    "name": "Alex Chappo",
+    "new_features": {
+        "app_graph": true
+    },
+    "version": "2.11.0"
+}

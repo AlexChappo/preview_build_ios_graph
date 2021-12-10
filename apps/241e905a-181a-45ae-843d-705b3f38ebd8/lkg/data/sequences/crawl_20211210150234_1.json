@@ -1,0 +1,189 @@
+[
+    {
+        "hash": "6de8d2e2bcdcdc9d0b0f679d03965772"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "enabled": true,
+                "hash": "2/3rsrQjNrspvqWqKktMgA==\n",
+                "height": 135.0,
+                "hier_level": 63,
+                "human_hash": "XCUIElementTypeOther_X237.0_Y1542.0_W405.0_H135.0",
+                "human_readable": "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_fc1fffffffffffffffffffffe41fe007e007e007e207ffffffff7fff7fff380f_9d4568c009d203ab10e33ea9953a0264",
+                "index": "0",
+                "is_transformed": true,
+                "png_hash": "dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f",
+                "screen_hash": "6de8d2e2bcdcdc9d0b0f679d03965772",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "",
+                "width": 405.0,
+                "x": 237.0,
+                "y": 1542.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "OWYyMWFkYzA4ZGUxMTcxMTJiOGU1MzE2YTYxNDdiOGU"
+    },
+    {
+        "hash": "bbaf943e5efbf4c714b8c9f7039e0c2e"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "home-drawer-button",
+                "enabled": true,
+                "hash": "HMCzkvQM7QpSBGkRyMvRJQ==\n",
+                "height": 132.0,
+                "hier_level": 18,
+                "human_hash": "XCUIElementTypeOther_X0.0_Y141.0_W126.0_H132.0",
+                "human_readable": "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffffffffffffffffffffc07fc07fc07fc07fc07fc07ffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c",
+                "index": "0",
+                "is_transformed": true,
+                "png_hash": "fffdffffff0081008040ff0080ff00ff00ff80ffffffffffffffffffffffffff",
+                "resource-id": "home-drawer-button",
+                "screen_hash": "bbaf943e5efbf4c714b8c9f7039e0c2e",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "home-drawer-button",
+                "width": 126.0,
+                "x": 0.0,
+                "y": 141.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MDEzZDA4NTgzODg4ZDdjNjQ1OWNiZGIwY2U2NWE3ZTc"
+    },
+    {
+        "hash": "dbb728166397fbbe36c853379200ad82"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "normal-btn",
+                "enabled": true,
+                "hash": "zFIAh/12msXMAo+EwEz1KA==\n",
+                "height": 114.0,
+                "hier_level": 51,
+                "human_hash": "XCUIElementTypeOther_X0.0_Y801.0_W840.0_H114.0",
+                "human_readable": "XCUIElementTypeOther_0.0_801.0_840.0_114.0_XCUIElementTypeOther_ffffffffffffffff7fff3fff1fff1fff1fff1fffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f",
+                "index": "2",
+                "is_transformed": true,
+                "png_hash": "ffffffe01fc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0ffc0",
+                "resource-id": "normal-btn",
+                "screen_hash": "dbb728166397fbbe36c853379200ad82",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "normal-btn",
+                "width": 840.0,
+                "x": 0.0,
+                "y": 801.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NDM4ZjAyN2Y3N2Q0NzE3MDNkYjkzMWVhZDQ3NWRiNTI"
+    },
+    {
+        "hash": "e41550a24dc41e3d9c52f31267b591e0"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "product-grid-item-4",
+                "enabled": true,
+                "hash": "dGY1Ar3TTBVGWzP5tzvWtw==\n",
+                "height": 717.0,
+                "hier_level": 54,
+                "human_hash": "XCUIElementTypeOther_X18.0_Y1824.0_W624.0_H717.0",
+                "human_readable": "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_f80ff81ffc3ffc3ffc3ffc3ffc3ffc3ffe7ffe7ffe7fff7fffffb6ff87ffffff_2c644d95d0368a16d59ba939b9309646",
+                "index": "0",
+                "is_transformed": true,
+                "png_hash": "ffffffffe7e781818181c3c3ffff81e781e7c3e7e7ffe78fe7e1fff9fffffb83",
+                "resource-id": "product-grid-item-4",
+                "screen_hash": "e41550a24dc41e3d9c52f31267b591e0",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "product-grid-item-4",
+                "width": 624.0,
+                "x": 18.0,
+                "y": 1824.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MWU2ZDA1ZjYzY2IyYmUwYzhkOWJkNjBiNzg2YTkzYTU"
+    },
+    {
+        "hash": "c4671f589aec48a0276f0ea737d078aa"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "product-detail-buttons-add-to-cart",
+                "enabled": true,
+                "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+                "height": 168.0,
+                "hier_level": 88,
+                "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+                "human_readable": "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffffffffffffffffcbfffcfeff7eff7eff7fff7000fffff02ff02ffffff03ff_81cc46a1c7a72e7eff7a6826968a2f17",
+                "index": "1",
+                "is_transformed": true,
+                "png_hash": "fffdf81ff80ff81ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00470000",
+                "resource-id": "product-detail-buttons-add-to-cart",
+                "screen_hash": "c4671f589aec48a0276f0ea737d078aa",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "product-detail-buttons-add-to-cart",
+                "width": 642.0,
+                "x": 642.0,
+                "y": 2610.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM"
+    },
+    {
+        "hash": "e8bd778e5bfa575f6e618b9f90f375a7"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": " 1",
+                "enabled": true,
+                "hash": "ZK9OEqxghRnTJQKEfN11Xg==\n",
+                "height": 114.0,
+                "hier_level": 21,
+                "human_hash": "XCUIElementTypeOther_X1128.0_Y150.0_W111.0_H114.0",
+                "human_readable": "XCUIElementTypeOther_1128.0_150.0_111.0_114.0_XCUIElementTypeOther_ffc3ff81ff80f700e380f801f803f9eff9cffc0ffcdffccfffffffffffffffff_3b2d5ad352d8a2d272d47a1c32de54ac",
+                "index": "1",
+                "is_transformed": true,
+                "png_hash": "fffdf81ff80ff81ffc3ffc3ffc7ffe7fffffffffffffffffffffffff00470000",
+                "resource-id": " 1",
+                "screen_hash": "e8bd778e5bfa575f6e618b9f90f375a7",
+                "tag_name": "XCUIElementTypeOther",
+                "text": " 1",
+                "width": 111.0,
+                "x": 1128.0,
+                "y": 150.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YjNhNThjMjBiZmQxOTY2YzIyNzkzOTIyMmU3YTI4OTc"
+    },
+    {
+        "hash": "8636e20e06f40a18aa5127f416b8e7b0"
+    }
+]

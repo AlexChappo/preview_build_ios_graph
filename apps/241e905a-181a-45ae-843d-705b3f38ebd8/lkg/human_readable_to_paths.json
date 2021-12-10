@@ -1,0 +1,20 @@
+{
+    "btn_add_to_cart": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00009_126_XCUIElementTypeOther.png"
+    ],
+    "icn_cart": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00011_24_XCUIElementTypeOther.png"
+    ],
+    "icn_menu": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00003_19_XCUIElementTypeOther.png"
+    ],
+    "img_dark_blue_jeans": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00007_68_XCUIElementTypeOther.png"
+    ],
+    "mi_men": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00005_65_XCUIElementTypeOther.png"
+    ],
+    "popup_dont_allow": [
+        "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/crawls/20211210150234/elems/iter_00000_step_00000_100_XCUIElementTypeOther.png"
+    ]
+}

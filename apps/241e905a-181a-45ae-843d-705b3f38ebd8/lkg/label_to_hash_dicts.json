@@ -1,0 +1,20 @@
+{
+    "btn_add_to_cart": [
+        "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffffffffffffffffcbfffcfeff7eff7eff7fff7000fffff02ff02ffffff03ff_81cc46a1c7a72e7eff7a6826968a2f17"
+    ],
+    "icn_cart": [
+        "XCUIElementTypeOther_1128.0_150.0_111.0_114.0_XCUIElementTypeOther_ffc3ff81ff80f700e380f801f803f9eff9cffc0ffcdffccfffffffffffffffff_3b2d5ad352d8a2d272d47a1c32de54ac"
+    ],
+    "icn_menu": [
+        "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffffffffffffffffffffc07fc07fc07fc07fc07fc07ffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c"
+    ],
+    "img_dark_blue_jeans": [
+        "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_f80ff81ffc3ffc3ffc3ffc3ffc3ffc3ffe7ffe7ffe7fff7fffffb6ff87ffffff_2c644d95d0368a16d59ba939b9309646"
+    ],
+    "mi_men": [
+        "XCUIElementTypeOther_0.0_801.0_840.0_114.0_XCUIElementTypeOther_ffffffffffffffff7fff3fff1fff1fff1fff1fffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f"
+    ],
+    "popup_dont_allow": [
+        "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_fc1fffffffffffffffffffffe41fe007e007e007e207ffffffff7fff7fff380f_9d4568c009d203ab10e33ea9953a0264"
+    ]
+}

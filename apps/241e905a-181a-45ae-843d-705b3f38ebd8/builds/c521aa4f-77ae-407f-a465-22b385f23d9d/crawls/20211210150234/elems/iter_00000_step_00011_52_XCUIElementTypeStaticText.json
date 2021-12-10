@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeStaticText",
+    "content-desc": "product-data-product-name",
+    "enabled": true,
+    "hash": "c2kZrl5qwUHoQx+LuQigZQ==\n",
+    "height": 60.0,
+    "hier_level": 41,
+    "human_hash": "XCUIElementTypeStaticText_X36.0_Y1731.0_W1212.0_H60.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-data-product-name",
+    "tag_name": "XCUIElementTypeStaticText",
+    "text": "product-data-product-name",
+    "width": 1212.0,
+    "x": 36.0,
+    "y": 1731.0
+}

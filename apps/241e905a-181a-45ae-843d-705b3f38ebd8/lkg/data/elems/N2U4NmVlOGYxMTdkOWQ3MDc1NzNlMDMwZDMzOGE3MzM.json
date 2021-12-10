@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-detail-buttons-add-to-cart",
+    "enabled": true,
+    "hash": "QFJ16yP/bzcz+NJGgCkFow==\n",
+    "height": 168.0,
+    "hier_level": 88,
+    "human_hash": "XCUIElementTypeOther_X642.0_Y2610.0_W642.0_H168.0",
+    "human_readable": "XCUIElementTypeOther_642.0_2610.0_642.0_168.0_XCUIElementTypeOther_fffffffffffffffffcbfffcfeff7eff7eff7fff7000fffff02ff02ffffff03ff_81cc46a1c7a72e7eff7a6826968a2f17",
+    "image_path": "N2U4NmVlOGYxMTdkOWQ3MDc1NzNlMDMwZDMzOGE3MzM.png",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-detail-buttons-add-to-cart",
+    "screen_hash": "c4671f589aec48a0276f0ea737d078aa",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-detail-buttons-add-to-cart",
+    "width": 642.0,
+    "x": 642.0,
+    "y": 2610.0
+}

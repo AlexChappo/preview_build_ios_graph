@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "Select Product Count stepper-btn-container",
+    "enabled": true,
+    "hash": "BmwqgZcdce90k6El3QlX0Q==\n",
+    "height": 195.0,
+    "hier_level": 41,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y1902.0_W1284.0_H195.0",
+    "index": "2",
+    "is_transformed": true,
+    "resource-id": "Select Product Count stepper-btn-container",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "Select Product Count stepper-btn-container",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 1902.0
+}

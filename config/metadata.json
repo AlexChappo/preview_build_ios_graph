@@ -1,0 +1,16 @@
+{
+    "active_id": "821cbfd3-56d3-4492-b6f1-eeb83fde26d3",
+    "default_id": "3b5ee24e-d71e-43fe-9082-0f3bbba942b6",
+    "id_to_metadata": {
+        "3b5ee24e-d71e-43fe-9082-0f3bbba942b6": {
+            "description": "Read-only default configuration.",
+            "file_name": "config-3b5ee24e-d71e-43fe-9082-0f3bbba942b6.json",
+            "name": "Default Configuration"
+        },
+        "821cbfd3-56d3-4492-b6f1-eeb83fde26d3": {
+            "description": "",
+            "file_name": "config-821cbfd3-56d3-4492-b6f1-eeb83fde26d3.json",
+            "name": "graph"
+        }
+    }
+}

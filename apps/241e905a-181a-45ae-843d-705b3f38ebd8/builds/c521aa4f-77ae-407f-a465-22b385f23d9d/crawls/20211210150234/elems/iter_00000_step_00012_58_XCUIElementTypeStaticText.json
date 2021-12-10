@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeStaticText",
+    "content-desc": "Select Product Count",
+    "enabled": true,
+    "hash": "Br+U1bEjnm6wmXeaQ2IV/A==\n",
+    "height": 69.0,
+    "hier_level": 45,
+    "human_hash": "XCUIElementTypeStaticText_X36.0_Y1962.0_W519.0_H69.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "Select Product Count",
+    "tag_name": "XCUIElementTypeStaticText",
+    "text": "Select Product Count",
+    "width": 519.0,
+    "x": 36.0,
+    "y": 1962.0
+}
