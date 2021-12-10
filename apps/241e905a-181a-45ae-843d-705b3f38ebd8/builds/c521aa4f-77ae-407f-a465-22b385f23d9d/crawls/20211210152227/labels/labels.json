@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00002_100_XCUIElementTypeOther.png": [
+            "popup_dont_allow"
+        ],
+        "iter_00000_step_00006_19_XCUIElementTypeOther.png": [
+            "icn_menu"
+        ],
+        "iter_00000_step_00006_68_XCUIElementTypeOther.png": [
+            "mi_women"
+        ],
+        "iter_00000_step_00008_68_XCUIElementTypeOther.png": [
+            "img_blue_denim_shorts"
+        ],
+        "iter_00000_step_00014_126_XCUIElementTypeOther.png": [
+            "btn_add_to_cart"
+        ],
+        "iter_00000_step_00014_24_XCUIElementTypeOther.png": [
+            "icn_cart"
+        ]
+    },
+    "screens": {}
+}

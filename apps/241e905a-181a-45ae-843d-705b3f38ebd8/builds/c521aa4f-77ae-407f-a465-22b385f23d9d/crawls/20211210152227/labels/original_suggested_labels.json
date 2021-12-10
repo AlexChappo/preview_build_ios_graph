@@ -1,0 +1,15 @@
+{
+    "elems": {
+        "iter_00000_step_00005_65_XCUIElementTypeOther.png": {
+            "mi_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    },
+    "screens": {}
+}

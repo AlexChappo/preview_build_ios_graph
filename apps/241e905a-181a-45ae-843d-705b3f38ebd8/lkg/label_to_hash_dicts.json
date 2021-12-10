@@ -8,11 +8,17 @@
     "icn_menu": [
         "XCUIElementTypeOther_0.0_141.0_126.0_132.0_XCUIElementTypeOther_fffffffffffffffffffffc07fc07fc07fc07fc07fc07ffffffffffffffffffff_e5a48d9adb28616b4a61ec5d48fe1b2c"
     ],
+    "img_blue_denim_shorts": [
+        "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_9c7f187df87ffc7ffc3ffc1ffc9ffc3ffc3ffc7ffc7ff87ff87f87ff87ffffff_2c644d95d0368a16d59ba939b9309646"
+    ],
     "img_dark_blue_jeans": [
         "XCUIElementTypeOther_18.0_1824.0_624.0_717.0_XCUIElementTypeOther_f80ff81ffc3ffc3ffc3ffc3ffc3ffc3ffe7ffe7ffe7fff7fffffb6ff87ffffff_2c644d95d0368a16d59ba939b9309646"
     ],
     "mi_men": [
         "XCUIElementTypeOther_0.0_801.0_840.0_114.0_XCUIElementTypeOther_ffffffffffffffff7fff3fff1fff1fff1fff1fffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f"
+    ],
+    "mi_women": [
+        "XCUIElementTypeOther_0.0_915.0_840.0_114.0_XCUIElementTypeOther_ffffffffffffffff7fff1fff0fff0fff0fff0fffffffffffffffffffffffffff_5e6df563c94d69c456ec3205323b2c7f"
     ],
     "popup_dont_allow": [
         "XCUIElementTypeOther_237.0_1542.0_405.0_135.0_XCUIElementTypeOther_fc1fffffffffffffffffffffe41fe007e007e007e207ffffffff7fff7fff380f_9d4568c009d203ab10e33ea9953a0264"

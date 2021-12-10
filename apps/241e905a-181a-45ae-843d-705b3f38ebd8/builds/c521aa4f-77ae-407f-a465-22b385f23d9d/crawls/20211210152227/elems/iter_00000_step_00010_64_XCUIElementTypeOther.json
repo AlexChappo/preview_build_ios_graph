@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "stepper-plus",
+    "enabled": true,
+    "hash": "AS8RbDWp2wNBgloP3rncwQ==\n",
+    "height": 99.0,
+    "hier_level": 48,
+    "human_hash": "XCUIElementTypeOther_X1152.0_Y1947.0_W93.0_H99.0",
+    "index": "2",
+    "is_transformed": true,
+    "resource-id": "stepper-plus",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "stepper-plus",
+    "width": 93.0,
+    "x": 1152.0,
+    "y": 1947.0
+}

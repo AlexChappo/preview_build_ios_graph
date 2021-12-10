@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "stepper-count",
+    "enabled": true,
+    "hash": "TQBXkOwDgkZFCUX4HdGNlw==\n",
+    "height": 99.0,
+    "hier_level": 47,
+    "human_hash": "XCUIElementTypeOther_X1104.0_Y1947.0_W18.0_H99.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "stepper-count",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "stepper-count",
+    "width": 18.0,
+    "x": 1104.0,
+    "y": 1947.0
+}

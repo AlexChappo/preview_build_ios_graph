@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-detail-buttons-buy-now",
+    "enabled": true,
+    "hash": "gi9ezXJh5TzBe4AeKyAtww==\n",
+    "height": 168.0,
+    "hier_level": 87,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y2610.0_W642.0_H168.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "product-detail-buttons-buy-now",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-detail-buttons-buy-now",
+    "width": 642.0,
+    "x": 0.0,
+    "y": 2610.0
+}

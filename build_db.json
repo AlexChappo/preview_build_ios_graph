@@ -5,7 +5,8 @@
                 "c521aa4f-77ae-407f-a465-22b385f23d9d": {
                     "app": "/Users/bot/test_ai/apps/241e905a-181a-45ae-843d-705b3f38ebd8/builds/c521aa4f-77ae-407f-a465-22b385f23d9d/app/com.appilder.demo-1.zip",
                     "crawls": [
-                        "20211210150234"
+                        "20211210150234",
+                        "20211210152227"
                     ],
                     "created": "2021-12-10 20:01:18.957868",
                     "local_build_id": "c521aa4f-77ae-407f-a465-22b385f23d9d",

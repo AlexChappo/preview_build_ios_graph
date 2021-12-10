@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "inapppage-WooCommerceCart",
+    "enabled": true,
+    "hash": "E6o3D/CpmOuvIJp0fM4h8w==\n",
+    "height": 2505.0,
+    "hier_level": 23,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H2505.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "inapppage-WooCommerceCart",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "inapppage-WooCommerceCart",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 273.0
+}

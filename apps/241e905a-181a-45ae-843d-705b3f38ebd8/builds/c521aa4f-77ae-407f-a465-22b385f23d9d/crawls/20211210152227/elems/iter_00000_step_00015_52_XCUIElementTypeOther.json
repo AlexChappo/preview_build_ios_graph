@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "checkout-sumbit-container",
+    "enabled": true,
+    "hash": "z8Pw7reMMzMStL4QaxoR5w==\n",
+    "height": 216.0,
+    "hier_level": 39,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y2562.0_W1284.0_H216.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "checkout-sumbit-container",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "checkout-sumbit-container",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 2562.0
+}

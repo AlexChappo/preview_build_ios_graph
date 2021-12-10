@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage",
+    "enabled": true,
+    "hash": "8ds+DEIeuwTYDgNun60rqA==\n",
+    "height": 279.0,
+    "hier_level": 37,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y1623.0_W1284.0_H279.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 1623.0
+}

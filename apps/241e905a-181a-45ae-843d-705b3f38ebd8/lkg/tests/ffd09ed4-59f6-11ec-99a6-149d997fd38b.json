@@ -1,0 +1,95 @@
+{
+    "Women": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "popup_dont_allow"
+                ],
+                "run_only_if_label_present": true,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "icn_menu"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "mi_women"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_blue_denim_shorts"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_add_to_cart"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "icn_cart"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            }
+        ],
+        "tags": [],
+        "temp_id": "ffd09ed4-59f6-11ec-99a6-149d997fd38b",
+        "title": "Women"
+    }
+}

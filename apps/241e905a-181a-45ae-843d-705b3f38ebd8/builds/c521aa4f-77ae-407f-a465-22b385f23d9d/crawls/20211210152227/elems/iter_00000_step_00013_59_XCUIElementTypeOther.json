@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "stepper-btn-container",
+    "enabled": true,
+    "hash": "AirylIcn7wuu8+gElagXlg==\n",
+    "height": 105.0,
+    "hier_level": 45,
+    "human_hash": "XCUIElementTypeOther_X978.0_Y1944.0_W270.0_H105.0",
+    "index": "1",
+    "is_transformed": true,
+    "resource-id": "stepper-btn-container",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "stepper-btn-container",
+    "width": 270.0,
+    "x": 978.0,
+    "y": 1944.0
+}

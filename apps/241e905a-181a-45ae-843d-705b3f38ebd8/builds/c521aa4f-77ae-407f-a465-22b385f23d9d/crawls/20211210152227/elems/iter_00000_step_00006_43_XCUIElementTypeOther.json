@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "inapppage-home",
+    "enabled": true,
+    "hash": "HIbye7/Q57bF3m86WRgz/w==\n",
+    "height": 2505.0,
+    "hier_level": 35,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W840.0_H2505.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "inapppage-home",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "inapppage-home",
+    "width": 840.0,
+    "x": 0.0,
+    "y": 273.0
+}

@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "  Sort product-grid-item-0 product-grid-item-1 product-grid-item-2 product-grid-item-3 product-grid-item-4 product-grid-item-5 product-grid-item-6 product-grid-item-7 Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page",
+    "enabled": true,
+    "hash": "amc2Go2usBS86T71FFbaIg==\n",
+    "height": 2505.0,
+    "hier_level": 32,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H2505.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "  Sort product-grid-item-0 product-grid-item-1 product-grid-item-2 product-grid-item-3 product-grid-item-4 product-grid-item-5 product-grid-item-6 product-grid-item-7 Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "  Sort product-grid-item-0 product-grid-item-1 product-grid-item-2 product-grid-item-3 product-grid-item-4 product-grid-item-5 product-grid-item-6 product-grid-item-7 Vertical scroll bar, 3 pages Horizontal scroll bar, 1 page",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 273.0
+}

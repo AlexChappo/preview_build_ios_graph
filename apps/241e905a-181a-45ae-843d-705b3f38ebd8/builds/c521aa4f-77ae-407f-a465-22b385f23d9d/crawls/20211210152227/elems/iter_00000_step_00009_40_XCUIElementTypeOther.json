@@ -1,0 +1,17 @@
+{
+    "class": "XCUIElementTypeOther",
+    "content-desc": "  product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage Select Product Count stepper-btn-container widget-0 widget-1 widget-2 product_scroller-3 Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page",
+    "enabled": true,
+    "hash": "JB7XSIg2rsJkQ8Xvo2BsSA==\n",
+    "height": 2337.0,
+    "hier_level": 32,
+    "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H2337.0",
+    "index": "0",
+    "is_transformed": true,
+    "resource-id": "  product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage Select Product Count stepper-btn-container widget-0 widget-1 widget-2 product_scroller-3 Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page",
+    "tag_name": "XCUIElementTypeOther",
+    "text": "  product-data-stock-text product-data-product-name product-data-sale-price product-data-regular-price product-data-sale-percentage Select Product Count stepper-btn-container widget-0 widget-1 widget-2 product_scroller-3 Vertical scroll bar, 2 pages Horizontal scroll bar, 1 page",
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 273.0
+}
